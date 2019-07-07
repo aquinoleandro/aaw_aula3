@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Hondo\\Documents\\Meus Arquivos\\PUC\\Pós Graduação\\Disciplinas\\Arquitetura de Aplicações WEB\\Atividades\\Aula 3\\Aula3_Parte2 20190704 1920\\Produtos.API\\Produtos.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Hondo\\Documents\\Meus Arquivos\\PUC\\Pós Graduação\\Disciplinas\\Arquitetura de Aplicações WEB\\Atividades\\Aula 3\\Aula3_Parte2 20190704 1920\\Produtos.API\\Produtos.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Hondo\\Documents\\Meus Arquivos\\PUC\\Pós Graduação\\Disciplinas\\Arquitetura de Aplicações WEB\\Atividades\\Aula 3\\Aula3_Parte2 20190704 1920\\Produtos.API\\Produtos.API.csproj",
+        "projectName": "Produtos.API",
+        "projectPath": "C:\\Users\\Hondo\\Documents\\Meus Arquivos\\PUC\\Pós Graduação\\Disciplinas\\Arquitetura de Aplicações WEB\\Atividades\\Aula 3\\Aula3_Parte2 20190704 1920\\Produtos.API\\Produtos.API.csproj",
+        "packagesPath": "C:\\Users\\Hondo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hondo\\Documents\\Meus Arquivos\\PUC\\Pós Graduação\\Disciplinas\\Arquitetura de Aplicações WEB\\Atividades\\Aula 3\\Aula3_Parte2 20190704 1920\\Produtos.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hondo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+C:\Users\912464\Desktop\Aula3_Parte2\Produtos.API\bin\Debug\netcoreapp2.1\Produtos.API.deps.json
+C:\Users\912464\Desktop\Aula3_Parte2\Produtos.API\bin\Debug\netcoreapp2.1\Produtos.API.runtimeconfig.json
+C:\Users\912464\Desktop\Aula3_Parte2\Produtos.API\bin\Debug\netcoreapp2.1\Produtos.API.runtimeconfig.dev.json
+C:\Users\912464\Desktop\Aula3_Parte2\Produtos.API\bin\Debug\netcoreapp2.1\Produtos.API.dll
+C:\Users\912464\Desktop\Aula3_Parte2\Produtos.API\bin\Debug\netcoreapp2.1\Produtos.API.pdb
+C:\Users\912464\Desktop\Aula3_Parte2\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.csprojAssemblyReference.cache
+C:\Users\912464\Desktop\Aula3_Parte2\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.csproj.CoreCompileInputs.cache
+C:\Users\912464\Desktop\Aula3_Parte2\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.RazorAssemblyInfo.cache
+C:\Users\912464\Desktop\Aula3_Parte2\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.RazorAssemblyInfo.cs
+C:\Users\912464\Desktop\Aula3_Parte2\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.AssemblyInfoInputs.cache
+C:\Users\912464\Desktop\Aula3_Parte2\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.AssemblyInfo.cs
+C:\Users\912464\Desktop\Aula3_Parte2\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.RazorTargetAssemblyInfo.cache
+C:\Users\912464\Desktop\Aula3_Parte2\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.dll
+C:\Users\912464\Desktop\Aula3_Parte2\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.pdb
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Produtos.API\bin\Debug\netcoreapp2.1\Produtos.API.deps.json
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Produtos.API\bin\Debug\netcoreapp2.1\Produtos.API.runtimeconfig.json
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Produtos.API\bin\Debug\netcoreapp2.1\Produtos.API.runtimeconfig.dev.json
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Produtos.API\bin\Debug\netcoreapp2.1\Produtos.API.dll
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Produtos.API\bin\Debug\netcoreapp2.1\Produtos.API.pdb
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.csprojAssemblyReference.cache
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.csproj.CoreCompileInputs.cache
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.RazorAssemblyInfo.cache
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.RazorAssemblyInfo.cs
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.AssemblyInfoInputs.cache
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.AssemblyInfo.cs
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.RazorTargetAssemblyInfo.cache
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.dll
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Produtos.API\obj\Debug\netcoreapp2.1\Produtos.API.pdb

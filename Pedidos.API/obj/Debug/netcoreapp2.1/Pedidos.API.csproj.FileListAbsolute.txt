@@ -1,0 +1,28 @@
+C:\Users\912464\Desktop\Aula3_Parte2\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.csprojAssemblyReference.cache
+C:\Users\912464\Desktop\Aula3_Parte2\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.csproj.CoreCompileInputs.cache
+C:\Users\912464\Desktop\Aula3_Parte2\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.RazorAssemblyInfo.cache
+C:\Users\912464\Desktop\Aula3_Parte2\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.RazorAssemblyInfo.cs
+C:\Users\912464\Desktop\Aula3_Parte2\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.AssemblyInfoInputs.cache
+C:\Users\912464\Desktop\Aula3_Parte2\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.AssemblyInfo.cs
+C:\Users\912464\Desktop\Aula3_Parte2\Pedidos.API\bin\Debug\netcoreapp2.1\Pedidos.API.deps.json
+C:\Users\912464\Desktop\Aula3_Parte2\Pedidos.API\bin\Debug\netcoreapp2.1\Pedidos.API.runtimeconfig.json
+C:\Users\912464\Desktop\Aula3_Parte2\Pedidos.API\bin\Debug\netcoreapp2.1\Pedidos.API.runtimeconfig.dev.json
+C:\Users\912464\Desktop\Aula3_Parte2\Pedidos.API\bin\Debug\netcoreapp2.1\Pedidos.API.dll
+C:\Users\912464\Desktop\Aula3_Parte2\Pedidos.API\bin\Debug\netcoreapp2.1\Pedidos.API.pdb
+C:\Users\912464\Desktop\Aula3_Parte2\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.RazorTargetAssemblyInfo.cache
+C:\Users\912464\Desktop\Aula3_Parte2\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.dll
+C:\Users\912464\Desktop\Aula3_Parte2\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.pdb
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Pedidos.API\bin\Debug\netcoreapp2.1\Pedidos.API.deps.json
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Pedidos.API\bin\Debug\netcoreapp2.1\Pedidos.API.runtimeconfig.json
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Pedidos.API\bin\Debug\netcoreapp2.1\Pedidos.API.runtimeconfig.dev.json
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Pedidos.API\bin\Debug\netcoreapp2.1\Pedidos.API.dll
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Pedidos.API\bin\Debug\netcoreapp2.1\Pedidos.API.pdb
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.csprojAssemblyReference.cache
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.csproj.CoreCompileInputs.cache
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.RazorAssemblyInfo.cache
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.RazorAssemblyInfo.cs
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.AssemblyInfoInputs.cache
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.AssemblyInfo.cs
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.RazorTargetAssemblyInfo.cache
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.dll
+C:\Users\Hondo\Documents\Meus Arquivos\PUC\Pós Graduação\Disciplinas\Arquitetura de Aplicações WEB\Atividades\Aula 3\Aula3_Parte2 20190704 1920\Pedidos.API\obj\Debug\netcoreapp2.1\Pedidos.API.pdb
